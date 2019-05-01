@@ -1,0 +1,22 @@
+{
+  "name": "chess-trnmnt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apals/chess-trnmnt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apals/chess-trnmnt/issues"
+  },
+  "homepage": "https://github.com/apals/chess-trnmnt#readme",
+  "dependencies": {
+    "chessboard": "^2.0.0"
+  }
+}
